@@ -1,6 +1,5 @@
 node_modules
 **/node_modules/
-.env
 docker-compose.extra.yml
 dist
 pnpm-lock.yaml
@@ -121,3 +120,4 @@ dist/protocol.schema.json
 
 # Synthing
 **/.stfolder/
+config.bat
